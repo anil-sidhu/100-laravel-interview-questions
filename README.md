@@ -322,7 +322,7 @@ D) All of above
 <details>
 	<summary><b>View Answer</b></summary>
 <ul>
-Answer: B
+Answer: D
 </ul>
 </details>
 
