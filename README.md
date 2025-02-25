@@ -308,7 +308,7 @@ D) get
 <details>
 	<summary><b>View Answer</b></summary>
 <ul>
-Answer: B
+Answer: C
 </ul>
 </details>
 
