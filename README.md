@@ -668,7 +668,7 @@ D) @if ($condition)
 <details>
 	<summary><b>View Answer</b></summary>
 <ul>
-Answer: A
+Answer: B
 	
 	@for ($i = 0; $i < 5; $i++)
     		<p>Iteration {{ $i }}</p>
