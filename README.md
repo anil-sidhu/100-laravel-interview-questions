@@ -1439,22 +1439,6 @@ Answer: B
 </ul>
 </details>
 
-
-**91. What is the primary purpose of using views in Laravel?**
-```php
-A) To store business logic
-B) To handle database queries
-C) To separate the presentation layer from business logic
-D) To define routes
-
-```
-<details>
-	<summary><b>View Answer</b></summary>
-<ul>
-Answer: C
-</ul>
-</details>
-
 **91. What is the primary purpose of using views in Laravel?**
 ```php
 A) To store business logic
