@@ -1455,20 +1455,6 @@ Answer: C
 </ul>
 </details>
 
-**91. What is the primary purpose of using views in Laravel?**
-```php
-A) To store business logic
-B) To handle database queries
-C) To separate the presentation layer from business logic
-D) To define routes
-
-```
-<details>
-	<summary><b>View Answer</b></summary>
-<ul>
-Answer: C
-</ul>
-</details>
 
 **92. Rest API method name?**
 ```php
@@ -1502,24 +1488,8 @@ Answer: B
 </details>
 
 
-**94. What is database seeding in Laravel?**
-```php
-A) The process of creating database migrations
-B) The process of populating the database with sample data
-C) The process of encrypting database records
-D) The process of deleting database records
 
-```
-<details>
-	<summary><b>View Answer</b></summary>
-<ul>
-Answer: B
-</ul>
-</details>
-
-
-
-**95. Can you use raw PHP tags (<?php ... ?>) inside a Laravel Blade template?**
+**94. Can you use raw PHP tags (<?php ... ?>) inside a Laravel Blade template?**
 ```php
 A) Yes, but it is discouraged
 B) No, it is not allowed
@@ -1535,7 +1505,7 @@ Answer: A
 </details>
 
 
-**96. What is the purpose of a controller in Laravel?**
+**95. What is the purpose of a controller in Laravel?**
 ```php
 A) To manage database migrations
 B) To handle HTTP requests and responses
@@ -1552,7 +1522,7 @@ Answer: B
 
 
 
-**97. What is the primary purpose of sessions in Laravel?**
+**96. What is the primary purpose of sessions in Laravel?**
 ```php
 A) Storing temporary data across multiple requests
 B) Managing database connections
@@ -1569,7 +1539,7 @@ Answer: A
 
 
 
-**98. What is the purpose of a flash session in Laravel?**
+**97. What is the purpose of a flash session in Laravel?**
 ```php
 A) To store data permanently in the session
 B) To store data temporarily for the next request only
@@ -1584,7 +1554,7 @@ Answer: B
 </ul>
 </details>
 
-**99. How many main types of middleware exist in Laravel?**
+**98. How many main types of middleware exist in Laravel?**
 ```php
 A) 1
 B) 2
@@ -1600,7 +1570,7 @@ Answer: B
 </details>
 
 
-**100. Which middleware is applied to all HTTP requests in Laravel?**
+**99. Which middleware is applied to all HTTP requests in Laravel?**
 ```php
 A) Route Middleware
 B) API Middleware
@@ -1613,6 +1583,21 @@ D) Web Middleware
 <ul>
 Answer: C
 </ul>
+</details>
+
+**100. What will happen if you run php artisan migrate:refresh in Laravel?**
+```php
+A) It will reset all migrations and re-run them.  
+B) It will update the migrations without losing data.  
+C) It will create new migrations without affecting existing ones.  
+D) It will only clear the cache of migrations.  
+
+```
+<details>
+	 <summary><b>View Answer</b></summary>
+<ul>
+ Answer: A 
+</ul> 
 </details>
 
 
